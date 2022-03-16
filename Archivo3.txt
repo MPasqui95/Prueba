@@ -1,2 +1,2 @@
-Parece que Git estar funcionando
+Parece que Git esta funcionando
 Vamos!
