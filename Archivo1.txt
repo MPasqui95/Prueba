@@ -1,3 +1,5 @@
 Probando Git con Eze
 Mi Perra tonta se pelea con mi otro perrito 
 y no me deja practicar Git
+Venimos bastante bien.
+Esperemos terminar pronto el ejercicio.
